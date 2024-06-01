@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.qzimyion.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ExampleMixin",
+    "PlacingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
