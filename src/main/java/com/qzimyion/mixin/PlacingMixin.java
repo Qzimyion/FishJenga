@@ -13,7 +13,7 @@ import org.spongepowered.asm.mixin.injection.Redirect;
 import org.spongepowered.asm.mixin.injection.Slice;
 
 @Mixin(Items.class)
-@Debug(export = true)
+//@Debug(export = true)
 public class PlacingMixin {
 
 
